@@ -4,7 +4,7 @@
 1. Learn to use the web browser console
 2. Declare variables and assign numerical values to them
 3. Mathematical operators
-4. Paranthesis in mathematical operations.
+4. Parentheses in mathematical operations.
 5. Optional exercise: Variable swap
 
 ## Exercise 1
