@@ -4,7 +4,8 @@
 1. Learn to use the web browser console
 2. Declare variables and assign numerical values to them
 3. Mathematical operators
-4. Optional exercise: Variable swap
+4. Paranthesis in mathematical operations.
+5. Optional exercise: Variable swap
 
 ## Exercise 1
 On Windows/Linux: Ctrl-Shift-J
@@ -23,8 +24,14 @@ On Mac: Command-Option-J
 1. Enter `8 + 10`. (Repeat for subtraction, multiplication, division)
 1. Enter `x + y`. (Repeat for subtraction, multiplication, division)
 2. Enter `y % x`.
+3. Try division by zero.
 
 ## Exercise 4
+1. Enter `8 + 10 * 100`.
+2. Enter `(8 + 10) * 100`.
+3. Enter `(x + y) * X`.
+
+## Exercise 5
 `a` is 10 and `b` is 20. Without directly assigning, set `a` to 20 and `b` to 10.
 1. Enter `a = 10`.
 2. Enter `b = 20`.
