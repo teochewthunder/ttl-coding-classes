@@ -12,24 +12,24 @@ On Windows/Linux: Ctrl-Shift-J
 On Mac: Command-Option-J
 
 ## Exercise 2
-1. Enter `x`. What do you see?
-2. Enter `x = 5`. What do you see?
-3. Enter `y = 8`.
-4. Enter `x`.
-5. Enter `y`.
-6. Enter `X`.
-7. Enter `X = 100`.
+1. Enter `x1`. What do you see?
+2. Enter `x1 = 5`. What do you see?
+3. Enter `x2 = 8`.
+4. Enter `x1`.
+5. Enter `x2`.
+6. Enter `X1`.
+7. Enter `X1 = 100`.
 
 ## Exercise 3
 1. Enter `8 + 10`. (Repeat for subtraction, multiplication, division)
-1. Enter `x + y`. (Repeat for subtraction, multiplication, division)
-2. Enter `y % x`.
+1. Enter `x1 + x2`. (Repeat for subtraction, multiplication, division)
+2. Enter `x1 % x2`.
 3. Try division by zero.
 
 ## Exercise 4
 1. Enter `8 + 10 * 100`.
 2. Enter `(8 + 10) * 100`.
-3. Enter `(x + y) * X`.
+3. Enter `(x1 + x2) * X1`.
 
 ## Exercise 5
 `a` is 10 and `b` is 20. Without directly assigning, set `a` to 20 and `b` to 10.
