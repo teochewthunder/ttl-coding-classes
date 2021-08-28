@@ -8,8 +8,8 @@
 5. Optional exercise: Variable swap
 
 ## Console
-On Windows/Linux: Ctrl-Shift-J
-On Mac: Command-Option-J
+- On Windows/Linux: Ctrl-Shift-J
+- On Mac: Command-Option-J
 
 ## Exercise 1
 1. Enter `x1`. What do you see?
