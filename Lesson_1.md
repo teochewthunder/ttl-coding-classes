@@ -18,7 +18,7 @@
 4. Enter `x1`.
 5. Enter `x2`.
 6. Enter `X1`.
-7. Enter `X1 = 100`.
+7. Enter `X1 = 100`. Then enrwe `X1`.
 
 ## Exercise 2
 1. Enter `8 + 10`. (Repeat for subtraction, multiplication, division)
